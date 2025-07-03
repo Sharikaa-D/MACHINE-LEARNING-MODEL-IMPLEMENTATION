@@ -111,5 +111,4 @@ Python Programming Intern at CodTech
 This is Task 4 of my internship — hope you enjoyed checking it out! 😊
 
 OUTPUT OF THE PROJECT:
-
-![Image](https://github.com/user-attachments/assets/1a7f3572-5c61-4042-9766-e3444ad60843)
+![Image](https://github.com/user-attachments/assets/bf1d4329-1353-4725-bfbc-98cd6918bd80)
